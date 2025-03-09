@@ -1,0 +1,81 @@
+{
+  "blog": {
+    "blogger_id": "0123456789",
+    "api_key": "XXXXXXXXXXXXXXXXXXXXXX"
+  },
+  "app": {
+    "status": true,
+    "report_email": "youremail@gmail.com",
+    "custom_label_list": false,
+    "song_metadata": true,
+    "image_album_art": true,
+    "blur_radio_background": false,
+    "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
+    "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
+    "redirect_url": ""
+  },
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "admob_banner_id": "xxxx",
+    "admob_interstitial_id": "xxxx",
+    "admob_native_id": "xxxx",
+    "admob_app_open_id": "xxxx",
+    "ad_manager_banner_id": "0",
+    "ad_manager_interstitial_id": "0",
+    "ad_manager_native_id": "0",
+    "ad_manager_app_open_id": "0",
+    "fan_banner_id": "0",
+    "fan_interstitial_id": "0",
+    "fan_native_id": "0",
+    "startapp_app_id": "0",
+    "unity_game_id": "0",
+    "unity_banner_id": "0",
+    "unity_interstitial_id": "0",
+    "applovin_max_banner_id": "0",
+    "applovin_max_interstitial_id": "0",
+    "applovin_max_native_manual_id": "0",
+    "applovin_max_app_open_id": "0",
+    "applovin_discovery_banner_zone_id": "0",
+    "applovin_discovery_banner_mrec_zone_id": "0",
+    "applovin_discovery_interstitial_zone_id": "0",
+    "ironsource_app_key": "0",
+    "ironsource_banner_id": "0",
+    "ironsource_interstitial_id": "0",
+    "wortise_app_id": "0",
+    "wortise_banner_id": "0",
+    "wortise_interstitial_id": "0",
+    "wortise_native_id": "0",
+    "wortise_app_open_id": "0",
+    "interstitial_ad_interval": 3,
+    "native_ad_interval": 8,
+    "native_ad_index": 6
+  },
+  "labels": [
+    {
+      "term": "Culture",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/culture.jpg"
+    },
+    {
+      "term": "Education",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/education.jpg"
+    },
+    {
+      "term": "Entertainment",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/entertainment.jpg"
+    },
+    {
+      "term": "Misc",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/misc.jpg"
+    },
+    {
+      "term": "National",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/national.jpg"
+    },
+    {
+      "term": "World",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/world.jpg"
+    }
+  ]
+}
