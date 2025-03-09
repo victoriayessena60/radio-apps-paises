@@ -1,16 +1,16 @@
 {
   "blog": {
     "blogger_id": "8012766810208174096",
-    "api_key": "AIzaSyBJmUwi1aBEXZe8Qiajts0FHcpo2PrSSas"
+    "api_key": "AIzaSyBJmUwi1aBEXZe8Qiajts0FHcpo2PrSSas,AIzaSyDtzWJ_wiCWya2XReWqXJJzXTB9_8dmPzI"
   },
   "app": {
     "status": true,
-    "report_email": "youremail@gmail.com",
+    "report_email": "shanabridge@hotmail.com",
     "custom_label_list": false,
     "song_metadata": true,
     "image_album_art": true,
     "blur_radio_background": false,
-    "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
+    "privacy_policy_url": "https://sites.google.com/view/radio-sterreich",
     "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
     "redirect_url": ""
   },
