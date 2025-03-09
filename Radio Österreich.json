@@ -1,6 +1,6 @@
 {
   "blog": {
-    "blogger_id": "0123456789",
+    "blogger_id": "8012766810208174096",
     "api_key": "XXXXXXXXXXXXXXXXXXXXXX"
   },
   "app": {
@@ -18,10 +18,10 @@
     "ad_status": true,
     "main_ads": "admob",
     "backup_ads": "none",
-    "admob_banner_id": "xxxx",
-    "admob_interstitial_id": "xxxx",
-    "admob_native_id": "xxxx",
-    "admob_app_open_id": "xxxx",
+    "admob_banner_id": "ca-app-pub-3251438469471899/9791495034",
+    "admob_interstitial_id": "ca-app-pub-3251438469471899/4659691509",
+    "admob_native_id": "ca-app-pub-3251438469471899/4049079730",
+    "admob_app_open_id": "ca-app-pub-3251438469471899/3438705648",
     "ad_manager_banner_id": "0",
     "ad_manager_interstitial_id": "0",
     "ad_manager_native_id": "0",
