@@ -6,7 +6,7 @@
   "app": {
     "status": true,
     "report_email": "shanabridge@hotmail.com",
-    "custom_label_list": false,
+    "custom_label_list": true,
     "song_metadata": true,
     "image_album_art": true,
     "blur_radio_background": false,
@@ -54,28 +54,40 @@
   },
   "labels": [
     {
-      "term": "Culture",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/culture.jpg"
+      "term": "Oberösterreich",
+      "image": "https://raw.githubusercontent.com/victoriayessena60/categorias-de-radio-austria/refs/heads/main/Ober%C3%B6sterreich.jpg"
     },
     {
-      "term": "Education",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/education.jpg"
+      "term": "Niederösterreich",
+      "image": "https://raw.githubusercontent.com/victoriayessena60/categorias-de-radio-austria/refs/heads/main/Nieder%C3%B6sterreich.jpg"
     },
     {
-      "term": "Entertainment",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/entertainment.jpg"
+      "term": "Burgenland",
+      "image": "https://raw.githubusercontent.com/victoriayessena60/categorias-de-radio-austria/refs/heads/main/Burgenland.jpg"
     },
     {
-      "term": "Misc",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/misc.jpg"
+      "term": "Kärnten",
+      "image": "https://raw.githubusercontent.com/victoriayessena60/categorias-de-radio-austria/refs/heads/main/K%C3%A4rnten.jpg"
     },
     {
-      "term": "National",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/national.jpg"
+      "term": "Estiria",
+      "image": "https://raw.githubusercontent.com/victoriayessena60/categorias-de-radio-austria/refs/heads/main/Estiria.jpg"
     },
     {
-      "term": "World",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/world.jpg"
+      "term": "Salzburg",
+      "image": "https://raw.githubusercontent.com/victoriayessena60/categorias-de-radio-austria/refs/heads/main/Salzburg.jpg"
+    }
+    {
+      "term": "Tirol",
+      "image": "https://raw.githubusercontent.com/victoriayessena60/categorias-de-radio-austria/refs/heads/main/Tirol.jpg"
+    },
+    {
+      "term": "Viena",
+      "image": "https://raw.githubusercontent.com/victoriayessena60/categorias-de-radio-austria/refs/heads/main/Viena.jpg"
+    },
+    {
+      "term": "Vorarlberg",
+      "image": "https://raw.githubusercontent.com/victoriayessena60/categorias-de-radio-austria/refs/heads/main/Vorarlberg.jpg"
     }
   ]
 }
